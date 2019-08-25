@@ -1,0 +1,28 @@
+{
+  "name": "array-flatten",
+  "version": "1.0.0",
+  "description": "Array flattening function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangda8791/arrayflatten.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Array",
+    "flatten"
+  ],
+  "author": "Wang Da <wangda8791@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangda8791/arrayflatten/issues"
+  },
+  "homepage": "https://github.com/wangda8791/arrayflatten#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
