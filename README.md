@@ -1,10 +1,10 @@
 The flatten function is added into Array of JavaScript
 
 # Installation
-npm install array-flatten
+npm install arr-flat
 
 # Usage
-    require("array-flatten");
+    require("arr-flat");
 
     let arr = [1,2,3,[4,5],["a","b"]];
 
