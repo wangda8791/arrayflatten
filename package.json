@@ -1,6 +1,6 @@
 {
   "name": "arr-flat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Array flattening function.",
   "main": "src/index.js",
   "scripts": {
